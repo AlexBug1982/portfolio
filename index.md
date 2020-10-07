@@ -31,9 +31,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Goodgame Mafia/Gangster
 
-In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among the enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
+> In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among the enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
 
-As leading developer my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies.
+As leading Frontend developer my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies. We developed the game in Action 3, using state machine design pattern and async Server Client communication. The game got translated into numerous languages, making it availavle for almost every country. 
+
+Until the fully deprectaion of the Flash Browser Plugin the game is still enjoyable at https://gangster.goodgamestudios.com/
 
 *Version 1 of the Profile page*
 <img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/profile_v1.jpg" width="480">
