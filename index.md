@@ -35,15 +35,16 @@ In Goodgame Gangster the player slips into the role of a young and aspiring mobs
 
 As leading developer my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies.
 
+*Version 1 of the Profile page*
 <img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/profile_v1.jpg" width="480">
-_Version 1 of the Profile page_
 
+*Version 1 of the Quest page*
 <img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/quests_v1.jpg" width="480">
-_Version 1 of the Quest page_
 
+*Version 2 of the Shop page*
 <img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/shop_v2.jpg" width="480">
-_Version 2 of the Shop page_
 
+*Version 2 of the Fight page*
 <img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/fight_v2.jpg" width="480">
-_Version 2 of the Fight page_
+
 
