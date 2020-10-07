@@ -38,15 +38,15 @@ As leading Frontend developer my team and I developed this beloved game project 
 Until the fully deprectaion of the Flash Browser Plugin the game is still enjoyable at https://gangster.goodgamestudios.com/
 
 *Version 1 of the Profile page*
-<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/profile_v1.jpg" width="480">
+<img src="images/ggs_mafia/profile_v1.jpg" width="480">
 
 *Version 1 of the Quest page*
-<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/quests_v1.jpg" width="480">
+<img src="images/ggs_mafia/quests_v1.jpg" width="480">
 
 *Version 2 of the Shop page*
-<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/shop_v2.jpg" width="480">
+<img src="images/ggs_mafia/shop_v2.jpg" width="480">
 
 *Version 2 of the Fight page*
-<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/fight_v2.jpg" width="480">
+<img src="images/ggs_mafia/fight_v2.jpg" width="480">
 
 
