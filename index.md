@@ -28,14 +28,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexBug1982/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Goodgame Mafia/Gangster
 
-### Support or Contact
+In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among the enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/profile_v1.jpg | width=500)
 
-![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/fight_v2.jpg)
+![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/quests_v1.jpg | width=500)
 
+![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/shop_v2.jpg | width=500)
+
+![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/fight_v2.jpg | width=500)
 
