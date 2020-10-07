@@ -33,11 +33,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among the enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
 
-![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/profile_v1.jpg | width=500)
-
-![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/quests_v1.jpg | width=500)
-
-![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/shop_v2.jpg | width=500)
-
-![Image](https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/fight_v2.jpg | width=500)
+<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/profile_v1.jpg" width="480">
+<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/quests_v1.jpg" width="480">
+<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/shop_v2.jpg" width="480">
+<img src="https://github.com/alexanderbahlk/portfolio/blob/gh-pages/images/ggs_mafia/fight_v2.jpg" width="480">
 
