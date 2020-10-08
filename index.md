@@ -50,19 +50,19 @@ player can decide whether to meet all these challenges as an athlete, a philosop
 With the knowledge and learning taken from Goodgame Studios made the bet on anther title similar to Goodgame Mafia and pulled off Goodgame Hercules. While it looks very similar to Goodgame Mafia and Hereos, the key difference is the fight mode which offers more variety. This fight mode required us to rethink the server client communication to make it faster and more reliable.
 Additionally, the tutorial system was redevolped to allow more flexiablity for the Game Design.
 
-*Character selection*
+*Character selection*<br/>
 <img src="images/ggs_hercules/header.jpg" width="480">
 
-*Character selection*
+*Character selection*<br/>
 <img src="images/ggs_hercules/character_selection.jpg" width="480">
 
-*Character selection*
+*Character selection*<br/>
 <img src="images/ggs_hercules/profile_with_tutorial.jpg" width="480">
 
-*Character selection*
+*Character selection*<br/>
 <img src="images/ggs_hercules/quest.jpg" width="480">
 
-*Character selection*
+*Character selection*<br/>
 <img src="images/ggs_hercules/fight_with_tutorial.jpg" width="480">
 
 
@@ -72,19 +72,19 @@ Additionally, the tutorial system was redevolped to allow more flexiablity for t
 
 During my Bachelors Degree at SAE Institute Hamburg, Good Game Studios wanted to develop and publish a new game based on the working game concept of Goodgame Mafia but with a different setting. I took the opportunity to develop Goodgame Heroes with a new framework, which was used later also in GGS Mafia as a technical update.
 
-*Character selection*
+*Character selection*<br/>
 <img src="images/ggs_heroes/character_selection.jpg" width="480">
 
-*Character screen*
+*Character screen*<br/>
 <img src="images/ggs_heroes/profile.jpg" width="480">
 
-*Quest selection*
+*Quest selection*<br/>
 <img src="images/ggs_heroes/quest_screen.jpg" width="480">
 
-*Quest details*
+*Quest details*<br/>
 <img src="images/ggs_heroes/quest.jpg" width="480">
 
-*Fight screen*
+*Fight screen*<br/>
 <img src="images/ggs_heroes/fight.jpg" width="480">
 
 ### Goodgame Mafia/Gangster
@@ -97,16 +97,16 @@ In 2012 the game was rebranded from Goodgame Mafia to Goodgame Gangster and rece
 
 Until the fully deprecation of the Flash Browser Plugin the game is still enjoyable at https://gangster.goodgamestudios.com/
 
-*Version 1 of the Profile page*
+*Version 1 of the Profile page*<br/>
 <img src="images/ggs_mafia/profile_v1.jpg" width="480">
 
-*Version 2 of the Quest page*
+*Version 2 of the Quest page*<br/>
 <img src="images/ggs_mafia/quests_v1.jpg" width="480">
 
-*Version 2 of the Shop page*
+*Version 2 of the Shop page*<br/>
 <img src="images/ggs_mafia/shop_v2.jpg" width="480">
 
-*Version 2 of the Fight page*
+*Version 2 of the Fight page*<br/>
 <img src="images/ggs_mafia/fight_v2.jpg" width="480">
 
 
