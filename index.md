@@ -28,6 +28,26 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Goodgame Heroes
+
+> Odd characters are sitting in the tavern, waiting for a willing hero, brave enough to carry out their assignments. “Hey you,” the two-headed ogre shouts, “just the man I need! In the valley of flames lives a dragon with a sore throat in desperate need of his medicine. Could get heated for you but you’ll receive huge amounts of gold and experience points. Sounds tempting, doesn’t it?”
+
+During my Bachelors Degree at SAE Institute Hamburg, Good Game Studios wanted to deleop and publish a new game based on the working game concept of Goodgame Mafia but with a different setting. I took the opportunity to develop Goodgame Heroes with a new framework, which was used later also in GGS Mafia as a technical update.
+
+*Character selection*
+<img src="images/ggs_heroes/character_selection.jpg" width="480">
+
+*Character screen*
+<img src="images/ggs_heroes/profile.jpg" width="480">
+
+*Quest selection*
+<img src="images/ggs_heroes/quest_screen.jpg" width="480">
+
+*Quest details*
+<img src="images/ggs_heroes/quest.jpg" width="480">
+
+*Fight screen*
+<img src="images/ggs_heroes/fight.jpg" width="480">
 
 ### Goodgame Mafia/Gangster
 
@@ -35,7 +55,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 As leading Frontend developer my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies. We developed the game in Action 3, using state machine design pattern and async Server Client communication. The game got translated into numerous languages, making it availavle for almost every country. 
 
-In 2012 the game was rebranded from GGS Mafia to GGS Gangster and received a polished design.
+In 2012 the game was rebranded from Goodgame Mafia to Goodgame Gangster and received a polished design.
 
 Until the fully deprectaion of the Flash Browser Plugin the game is still enjoyable at https://gangster.goodgamestudios.com/
 
