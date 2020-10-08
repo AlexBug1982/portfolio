@@ -36,6 +36,31 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 >
 > Apart from expanding your base, focus is also placed on thrilling space battles. Unlike many browser games, Goodgame Galaxy battles are calculated in real time. This means that the player, as commander of their fleet, can make alterations to his tactics during combat. It also means that the different arrangements of defenses and differing buildings require a unique strategy with each attack. In this way, the battles contain elements of the much loved tower defense genre. Opponents include computer controlled bases, but above all, other real players from across the world. In addition, players can come together to form powerful alliances, in which players support each other, and conquer the galaxy together.
 
+Goodgame Galaxy marked the peak of what is possible in Actionscript 3 games. The game looked amazing in terms of the UI and the 3D objects with animations. Under the hood, we developed an Entity Component System as the Game Engine. In combination with State Machines and the Decorator Pattern we were able to work fast and efficient to implement new Game Designs.
+
+I am still very proud of the team and me. We build the most advanced game at Goodgame Studios at that time and also delivered a game users loved. Unfortunately, it could not hold up to the expectations of the company in terms of revenue and was discontinued 2013. But it was the technical foundation for their hit game Goodgame Bigfarm.
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/build.jpg" width="480">
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/full_base.jpg" width="480">
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/laser_canon.jpg" width="480">
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/research.jpg" width="480">
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/enemy_base.png" width="480">
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/fight.jpg" width="480">
+
+*Character selection*<br/>
+<img src="images/ggs_galaxy/map.jpg" width="480">
+
 ### Goodgame Hercules
 
 > Facing a dangerous hydra, getting in the ring with Hercules, taking a flight on the back of the winged horse Pegasus, or even being in service of the father of gods Zeus – all these exciting adventures are possible with Goodgame Hercules.
