@@ -35,6 +35,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 As leading Frontend developer my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies. We developed the game in Action 3, using state machine design pattern and async Server Client communication. The game got translated into numerous languages, making it availavle for almost every country. 
 
+In 2012 the game was rebranded from GGS Mafia to GGS Gangster and received a polished design.
+
 Until the fully deprectaion of the Flash Browser Plugin the game is still enjoyable at https://gangster.goodgamestudios.com/
 
 *Version 1 of the Profile page*
