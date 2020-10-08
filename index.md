@@ -88,7 +88,7 @@ Until the fully deprecation of the Flash Browser Plugin the game is still enjoya
 *Version 1 of the Profile page*
 <img src="images/ggs_mafia/profile_v1.jpg" width="480">
 
-*Version 1 of the Quest page*
+*Version 2 of the Quest page*
 <img src="images/ggs_mafia/quests_v1.jpg" width="480">
 
 *Version 2 of the Shop page*
