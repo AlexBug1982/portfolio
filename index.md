@@ -1,4 +1,4 @@
-## Welcome to the portofilo page of Alexander Bahlk
+## Welcome to the portfolio page of Alexander Bahlk
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
 
