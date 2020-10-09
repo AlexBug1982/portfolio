@@ -12,12 +12,12 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 
 ### Memorado - Brain Training App
 
-Memorado was successful brain training app, in which users could train their brain memory, reaction and concetration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
+Memorado was successful brain training app, in which users could train their brain memory, reaction and concentration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
 
 #### Web games
 
-Memorado started as a webbased product for users interested in brain traing.
-I joined as a Games Developer to devolop more ActionScript 3 games. On a weekly to bi-weekly basis be launched new games to keep users engaged and to increase the portfolio. This turned out be out very successful which lead to the start of the mobile apps.
+Memorado started as a web-based product for users interested in brain training.
+I joined as a Games Developer to develop more ActionScript 3 games. On a weekly to bi-weekly basis be launched new games to keep users engaged and to increase the portfolio. This turned out be out very successful which lead to the start of the mobile apps.
 
 
 *Web header from Landing page*<br/>
@@ -34,17 +34,20 @@ I joined as a Games Developer to devolop more ActionScript 3 games. On a weekly 
 
 #### Mobile apps
 
-As the market demanded mobile first, Memorado moved the focus to the Android and iOS app. While hiring the Android team, I already startet wit the Android App from scratch. The hired team took over and we launched the app on time.
+As the market demanded mobile first, Memorado moved the focus to the Android and iOS app. While hiring the Android team, I already started to develop the Android App from scratch. The hired team helped me launching the app on time.
+In mid 2015 I took over the Project Management of both the Android and iOS app and also the Product Management of the RoR backend product, switching my career path from Developer to Project and Product Manager.
 
-*Web header from Landing page*<br/>
+*Android store *<br/>
 <img src="images/memorado/android_store.png" width="480">
 
 *App home screen*<br/>
 <img src="images/memorado/app_home_offer.png" width="480">
 
-*App home screen*<br/>
+*App marketing header*<br/>
 <img src="images/memorado/mobile_three_games.jpg" width="880">
 
+*iOS games list*<br/>
+<img src="images/memorado/app_game_list.jpg" width="480">
 
 
 
