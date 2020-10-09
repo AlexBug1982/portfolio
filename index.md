@@ -47,7 +47,7 @@ In mid 2015 I took over the Project Management of both the Android and iOS app a
 <img src="images/memorado/mobile_three_games.jpg" width="880">
 
 *iOS games list*<br/>
-<img src="images/memorado/app_game_list.jpg" width="480">
+<img src="images/memorado/app_game_list.jpeg" width="480">
 
 
 
