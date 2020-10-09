@@ -37,7 +37,7 @@ I joined as a Games Developer to develop more ActionScript 3 games. On a weekly 
 As the market demanded mobile first, Memorado moved the focus to the Android and iOS app. While hiring the Android team, I already started to develop the Android App from scratch. The hired team helped me launching the app on time.
 In mid 2015 I took over the Project Management of both the Android and iOS app and also the Product Management of the RoR backend product, switching my career path from Developer to Project and Product Manager.
 
-*Android store *<br/>
+*Android store*<br/>
 <img src="images/memorado/android_store.png" width="480">
 
 *App home screen*<br/>
