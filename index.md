@@ -2,6 +2,14 @@
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
 
+### Memorado // Brain Training App
+
+Memorado was successful brain training app, in which users could train their brain memory, reaction and concetration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
+
+
+
+
+
 ### Goodgame Galaxy
 
 > Outer space. A galaxy far, far away. Who didn’t dream of conquering the universe as a child? As of today, Goodgame Galaxy, the newest free online game from the
