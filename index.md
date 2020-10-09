@@ -1,11 +1,49 @@
 ## Welcome to the portfolio page of Alexander Bahlk
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
+ 
+* [Memorado - Brain Training App](#memorado---brain-training-app)
+    + [Web games](#web-games)
+    + [Mobile apps](#mobile-apps)
+* [Goodgame Galaxy](#goodgame-galaxy)
+* [Goodgame Hercules](#goodgame-hercules)
+* [Goodgame Heroes](#goodgame-heroes)
+* [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
 
-### Memorado // Brain Training App
+### Memorado - Brain Training App
 
 Memorado was successful brain training app, in which users could train their brain memory, reaction and concetration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
 
+#### Web games
+
+Memorado started as a webbased product for users interested in brain traing.
+I joined as a Games Developer to devolop more ActionScript 3 games. On a weekly to bi-weekly basis be launched new games to keep users engaged and to increase the portfolio. This turned out be out very successful which lead to the start of the mobile apps.
+
+
+*Web header from Landing page*<br/>
+<img src="images/memorado/web_header.png" width="480">
+
+*Web features*<br/>
+<img src="images/memorado/web_features.png" width="480">
+
+*Web Memory games*<br/>
+<img src="images/memorado/web_memory_games.jpg" width="480">
+
+*Web workout finished*<br/>
+<img src="images/memorado/web_workout_finished.jpg" width="480">
+
+#### Mobile apps
+
+As the market demanded mobile first, Memorado moved the focus to the Android and iOS app. While hiring the Android team, I already startet wit the Android App from scratch. The hired team took over and we launched the app on time.
+
+*Web header from Landing page*<br/>
+<img src="images/memorado/android_store.png" width="480">
+
+*App home screen*<br/>
+<img src="images/memorado/app_home_offer.png" width="480">
+
+*App home screen*<br/>
+<img src="images/memorado/mobile_three_games.jpg" width="880">
 
 
 
@@ -22,25 +60,25 @@ Goodgame Galaxy marked the peak of what is possible in Actionscript 3 games. The
 
 I am still very proud of the team and me. We build the most advanced game at Goodgame Studios at that time and also delivered a game users loved. Unfortunately, it could not hold up to the expectations of the company in terms of revenue and was discontinued 2013. But it was the technical foundation for their hit game Goodgame Bigfarm.
 
-*Character selection*<br/>
+*Early base*<br/>
 <img src="images/ggs_galaxy/build.jpg" width="480">
 
-*Character selection*<br/>
+*Full base*<br/>
 <img src="images/ggs_galaxy/full_base.jpg" width="480">
 
-*Character selection*<br/>
+*Laser Canon*<br/>
 <img src="images/ggs_galaxy/laser_canon.jpg" width="480">
 
-*Character selection*<br/>
+*Reserach center*<br/>
 <img src="images/ggs_galaxy/research.jpg" width="480">
 
-*Character selection*<br/>
+*Enemy base*<br/>
 <img src="images/ggs_galaxy/enemy_base.png" width="480">
 
-*Character selection*<br/>
+*Fight with explosions*<br/>
 <img src="images/ggs_galaxy/fight.jpg" width="480">
 
-*Character selection*<br/>
+*Map to reach other bases*<br/>
 <img src="images/ggs_galaxy/map.jpg" width="480">
 
 ### Goodgame Hercules
@@ -90,7 +128,7 @@ During my Bachelors Degree at SAE Institute Hamburg, Good Game Studios wanted to
 *Fight screen*<br/>
 <img src="images/ggs_heroes/fight.jpg" width="480">
 
-### Goodgame Mafia/Gangster
+### Goodgame Mafia and Gangster
 
 >In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among the enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
 
