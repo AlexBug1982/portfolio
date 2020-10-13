@@ -15,6 +15,10 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 
 ### Klara
 
+<br/>
+<hr>
+<br/>
+
 ### WeSource
 
 In Mid 2017 my co-founder and I started our own company WeSource UG. Our vision was to give recruiters and hiring managers the opportunity to reach out to passive candidates with a personal message to increase the response rate. Users on LinkedIn and XING are flooded with messages on daily basis missing out on great conversations and new opportunities.
@@ -54,6 +58,10 @@ FEATURES
 *Create personalised message on LinkedIn*<br/>
 <img src="images/wesource/create_message_de_2.png" width="880">
 
+<br/>
+<hr>
+<br/>
+
 ### HeyJobs 2016-2017
 
 In early 2016 the founders of Memorado decided to pivot. I an idea generation process HeyJobs, a product that allows job seekers to apply more easily to job offers, was born and initially released in April 2016 after 8 weeks of development.
@@ -78,6 +86,9 @@ FEATURES in 2016
 *Jobseeker Chat with HeyJobs*<br/>
 <img src="images/heyjobs_one/messaging_v1.png" width="480">
 
+<br/>
+<hr>
+<br/>
 
 ### Football Clash
 
@@ -99,6 +110,10 @@ The game is still downloadable and playable on Android: [Link](https://play.goog
 
 *Tournaments screen*<br/>
 <img src="images/football_clash/tournaments.jpg" width="480">
+
+<br/>
+<hr>
+<br/>
 
 ### Memorado - Brain Training App
 
@@ -139,7 +154,9 @@ In mid 2015 I took over the Project Management of both the Android and iOS app a
 *iOS games list*<br/>
 <img src="images/memorado/app_game_list.jpeg" width="480">
 
-
+<br/>
+<hr>
+<br/>
 
 ### Goodgame Galaxy
 
@@ -174,6 +191,10 @@ I am still very proud of the team and me. We build the most advanced game at Goo
 *Map to reach other bases*<br/>
 <img src="images/ggs_galaxy/map.jpg" width="480">
 
+<br/>
+<hr>
+<br/>
+
 ### Goodgame Hercules
 
 > Facing a dangerous hydra, getting in the ring with Hercules, taking a flight on the back of the winged horse Pegasus, or even being in service of the father of gods Zeus – all these exciting adventures are possible with Goodgame Hercules.
@@ -199,6 +220,9 @@ Additionally, the tutorial system was redevolped to allow more flexiablity for t
 *Character selection*<br/>
 <img src="images/ggs_hercules/fight_with_tutorial.jpg" width="480">
 
+<br/>
+<hr>
+<br/>
 
 ### Goodgame Heroes
 
@@ -220,6 +244,10 @@ During my Bachelors Degree at SAE Institute Hamburg, Good Game Studios wanted to
 
 *Fight screen*<br/>
 <img src="images/ggs_heroes/fight.jpg" width="480">
+
+<br/>
+<hr>
+<br/>
 
 ### Goodgame Mafia and Gangster
 
