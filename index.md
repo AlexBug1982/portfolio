@@ -2,6 +2,7 @@
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
  
+* [HeyJobs 2016-2017](#heyjobs-2016-2017)
 * [Football Clash](#football-clash)
 * [Memorado - Brain Training App](#memorado---brain-training-app)
     + [Web games](#web-games)
@@ -15,18 +16,43 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 
 ### WeSource
 
-### HeyJobs
+
+
+### HeyJobs 2016-2017
+
+In early 2016 the founders of Memorado decided to pivot. I an idea generation process HeyJobs, a product which gives job seekers the opportunity to apply more easily to jobs offers, was born and initally released in April 2016 after 8 weeks of development.
+
+Within 12 weeks we developed the MVP, using Xamarin as the cross-platform solution, and the RoR backend. The product development process, developed at Memorado helped to achieve this milestone. During the next month, I also took over the TPM responsibility for the Backend project. On a weekly basis, the team and I integrated new job platforms to spread the job offers of our customers (30 in the end including Indeed, eBay classified, Jobbörse), improved the speed of our operations team with new internal tools and served new API endpoints to improve the web interface.
+
+FEATURES in 2016
+* Jobseekers can search for nearby jobs
+* Jobseekers can easily apply to suitable jobs on the mobile device
+* Jobseekers can create a beautiful looking and appealing CV and attach it to every application
+
+
+*HeyJobs Features 2016*<br/>
+<img src="images/heyjobs_one/heyjobs_features.jpg" width="880">
+
+*Recruiter Create a job screen*<br/>
+<img src="images/heyjobs_one/recruiter_onboarding_v1.png" width="480">
+
+*Jobseeker Discover job destails *<br/>
+<img src="images/heyjobs_one/find_jobs_job_detail_apply_v1.png" width="480">
+
+*Jobseeker Chat with HeyJobs*<br/>
+<img src="images/heyjobs_one/messaging_v1.png" width="480">
+
 
 ### Football Clash
 
 > Football Clash is the unique 2D football turn based strategy game. ⚽️
 >
 > FEATURES
-> *  Unique genre mix - turn bases strategy meets football
-> *  Team variety - choose from 40 national teams
-> *  History campaigns - replay 7 tournaments: Mexiko 1986, Portugal 2004, Germany 2006, Venezuela 2007, Poland/Ukraine 2012, Brazil 2014 and France 2016
-> *  Game modes - single match, 1player or 2player hot seat, tournament and penalty shoot-out
-> *  Offline playability - no internet connection required and playable for free
+> * Unique genre mix - turn bases strategy meets football
+> * Team variety - choose from 40 national teams
+> * History campaigns - replay 7 tournaments: Mexiko 1986, Portugal 2004, Germany 2006, Venezuela 2007, Poland/Ukraine 2012, Brazil 2014 and France 2016
+> * Game modes - single match, 1player or 2player hot seat, tournament and penalty shoot-out
+> * Offline playability - no internet connection required and playable for free
 
 This project started as a hackathon with friends and turned into a full mobile game for Android. We developed the game with Unity, which was exiting because I was new to it. But the learning curve was steep and we were able to develop features quite fast.
 
