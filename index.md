@@ -20,6 +20,13 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 ### Football Clash
 
 > Football Clash is the unique 2D football turn based strategy game. ⚽️
+>
+> FEATURES
+> *  Unique genre mix - turn bases strategy meets football
+> *  Team variety - choose from 40 national teams
+> *  History campaigns - replay 7 tournaments: Mexiko 1986, Portugal 2004, Germany 2006, Venezuela 2007, Poland/Ukraine 2012, Brazil 2014 and France 2016
+> *  Game modes - single match, 1player or 2player hot seat, tournament and penalty shoot-out
+> *  Offline playability - no internet connection required and playable for free
 
 This project started as a hackathon with friends and turned into a full mobile game for Android. We developed the game with Unity, which was exiting because I was new to it. But the learning curve was steep and we were able to develop features quite fast.
 
