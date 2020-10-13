@@ -16,7 +16,14 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 
 ### WeSource
 
+In Mid 2017 my co-founder and I started our own company WeSource UG:
+Within the first 6 months we:
+* applied successfully for the German Gründerzuschuss to receive 35.000€ in total as start investment
+* built the wesource.io MVP in 4 weeks based on customer interviews in an agile process
+* applied successfully to the TheFamily acceleration program to get valuable business feedback and contacts and receive perks such as AWS credits to save hosting costs
+* sold the service to customers like Deutsche Post, 1&1, Deutsche Bahn, Raisin, headhunting agencies and more
 
+As the CTO, I developed and released the wesource.io application in a fast and cost-efficient way using Ruby on Rails, PostgreSQL, JavaScript, and jQuery. While getting more and more customers I transferred our application from Heroku to AWS EC2 using Dokku. With this transfer we were able to save 80% of hosting costs and were additionally more flexible in scaling the application. I also built an internal lead generation tool to scale the email outreach to 400 targeted leads per month.
 
 ### HeyJobs 2016-2017
 
