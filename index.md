@@ -2,6 +2,7 @@
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
 
+* [Klara](#klara)
 * [WeSource](#wesource)
 * [HeyJobs 2016-2017](#heyjobs-2016-2017)
 * [Football Clash](#football-clash)
@@ -14,6 +15,20 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 * [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
 
 ### Klara
+
+> Klara’s end-to-end virtual care platform helps practices stay connected with their patients.
+
+As a Product Manager at Klara, a health care communication platform, the development team in Berlin and I successfully migrated the legacy data model to a new one, which supports future EHR integration in the health care sector.
+
+Within 4 months we developed and shipped two major EHR integrations with https://www.nextech.com and https://www.athenahealth.com using the HL7/FHIR Cloud API.
+
+
+*Web and mobile access*<br/>
+<img src="images/klara/Virtual_Waiting-Room.png" width="880">
+
+*Chat or Video call the practice*<br/>
+<img src="images/klara/Telemedicine-Conversation.png" width="340">
+<img src="images/klara/Videocall.jpg" width="340">
 
 <br/>
 <hr>
