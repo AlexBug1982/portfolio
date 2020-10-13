@@ -2,6 +2,7 @@
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
 
+* [Self-watering Plant Device using Arduino](#self-watering-plant-device-using-arduino)
 * [Klara](#klara)
 * [WeSource](#wesource)
 * [HeyJobs 2016-2017](#heyjobs-2016-2017)
@@ -14,6 +15,20 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 * [Goodgame Heroes](#goodgame-heroes)
 * [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
 
+### Self-watering Plant Device using Arduino
+
+The goal of the project was to develop a prototype that waters a minimum of 5 plants automatically using the Arduino platform. The challenges were the craftwork (wood, plastic, electronics) and combining this with water. To provide water to every plant pot equally I needed to iterate on the hose system. Additionally, C++ was new to me and I needed to learn it from scratch.
+
+Currently, the prototype is working well, the plants are growing nicely. The next steps are a growing light system for the darker months and a different base construction to be able to plug the device on a wall.
+
+Feel free to check out the code, fork the project or contribute: [GitHub Repro](https://github.com/alexanderbahlk/andruino_interval_watering_with_waterlevel_check_and_rgb_led)
+
+
+
+<br/>
+<hr>
+<br/>
+
 ### Klara
 
 > Klara’s end-to-end virtual care platform helps practices stay connected with their patients.
@@ -22,6 +37,7 @@ As a Product Manager at Klara, a health care communication platform, the develop
 
 Within 4 months we developed and shipped two major EHR integrations with https://www.nextech.com and https://www.athenahealth.com using the HL7/FHIR Cloud API.
 
+[Website](https://www.klara.com/)
 
 *Web and mobile access*<br/>
 <img src="images/klara/Virtual_Waiting-Room.png" width="880">
@@ -88,6 +104,7 @@ FEATURES in 2016
 * Jobseekers can easily apply to suitable jobs on the mobile device
 * Jobseekers can create a beautiful looking and appealing CV and attach it to every application
 
+[Website](https://hire.heyjobs.co/en-us/)
 
 *HeyJobs Features 2016*<br/>
 <img src="images/heyjobs_one/heyjobs_features.jpg" width="880">
