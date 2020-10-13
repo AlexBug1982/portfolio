@@ -2,7 +2,7 @@
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
 
-* [Self-watering Plant Device using Arduino](#self-watering-plant-device-using-arduino)
+* [Self-watering Plant Pot Device using Arduino](#self-watering-plant-pot-device-using-arduino)
 * [Klara](#klara)
 * [WeSource](#wesource)
 * [HeyJobs 2016-2017](#heyjobs-2016-2017)
@@ -15,7 +15,7 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 * [Goodgame Heroes](#goodgame-heroes)
 * [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
 
-### Self-watering Plant Device using Arduino
+### Self-watering Plant Pot Device using Arduino
 
 The goal of the project was to develop a prototype that waters a minimum of 5 plants automatically using the Arduino platform. The challenges were the craftwork (wood, plastic, electronics) and combining this with water. To provide water to every plant pot equally I needed to iterate on the hose system. Additionally, C++ was new to me and I needed to learn it from scratch.
 
@@ -23,6 +23,8 @@ Currently, the prototype is working well, the plants are growing nicely. The nex
 
 Feel free to check out the code, fork the project or contribute: [GitHub Repro](https://github.com/alexanderbahlk/andruino_interval_watering_with_waterlevel_check_and_rgb_led)
 
+*Plant pot device for 5 plants*<br/>
+<img src="images/andruino_interval_watering_with_waterlevel_check_and_rgb_led/plant_pot_device.JPG" width="440">
 
 
 <br/>
