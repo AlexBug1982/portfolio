@@ -1,7 +1,8 @@
 ## Welcome to the portfolio page of Alexander Bahlk
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
- 
+
+* [WeSource](#wesource)
 * [HeyJobs 2016-2017](#heyjobs-2016-2017)
 * [Football Clash](#football-clash)
 * [Memorado - Brain Training App](#memorado---brain-training-app)
@@ -16,20 +17,48 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 
 ### WeSource
 
-In Mid 2017 my co-founder and I started our own company WeSource UG:
+In Mid 2017 my co-founder and I started our own company WeSource UG. Our vision was to give recruiters and hiring managers the opportunity to reach out to passive candidates with a personal message to increase the response rate. Users on LinkedIn and XING are flooded with messages on daily basis missing out on great conversations and new opportunities.
+
 Within the first 6 months we:
 * applied successfully for the German Gründerzuschuss to receive 35.000€ in total as start investment
 * built the wesource.io MVP in 4 weeks based on customer interviews in an agile process
 * applied successfully to the TheFamily acceleration program to get valuable business feedback and contacts and receive perks such as AWS credits to save hosting costs
 * sold the service to customers like Deutsche Post, 1&1, Deutsche Bahn, Raisin, headhunting agencies and more
 
-As the CTO, I developed and released the wesource.io application in a fast and cost-efficient way using Ruby on Rails, PostgreSQL, JavaScript, and jQuery. While getting more and more customers I transferred our application from Heroku to AWS EC2 using Dokku. With this transfer we were able to save 80% of hosting costs and were additionally more flexible in scaling the application. I also built an internal lead generation tool to scale the email outreach to 400 targeted leads per month.
+As the CTO, I developed and released the wesource.io application in a fast and cost-efficient way using Ruby on Rails, PostgreSQL, JavaScript, and jQuery. While getting more and more customers I transferred our application from Heroku to AWS EC2 using Dokku. With this transfer, we were able to save 80% of hosting costs and were additionally more flexible in scaling the application. I also built an internal lead generation tool to scale the email outreach to 400 targeted leads per month.
+
+FEATURES
+* Recruiters can create message templates with a variety of templates
+** Up to 30 placeholders
+** Multiple salutations
+** Analysed candidate experience
+** Analysed candidate positions
+** Additional placeholders covering soft skills and hobbies
+* Recruiters can create a Boolean String for every vacancy enabling them to find great candidates on LinkedIn and XING
+* Recruiters can create a personalized message while browning a candidate profile on LinkedIn and XING using a Chrome Extension or Firefox Addon
+* Recruiters can manage their account with the admin area
+** Manage vacancies (message and Boolean String)
+** Customer information
+** Self Service Checkout
+** FAQs
+
+*Website en*<br/>
+<img src="images/wesource/homepage_en.png" width="880">
+
+*Website de*<br/>
+<img src="images/wesource/homepage_de.png" width="880">
+
+*Edit message*<br/>
+<img src="images/wesource/edit_message.png" width="880">
+
+*Create personalised message on LinkedIn*<br/>
+<img src="images/wesource/create_message_de_2.png" width="880">
 
 ### HeyJobs 2016-2017
 
-In early 2016 the founders of Memorado decided to pivot. I an idea generation process HeyJobs, a product which gives job seekers the opportunity to apply more easily to jobs offers, was born and initally released in April 2016 after 8 weeks of development.
+In early 2016 the founders of Memorado decided to pivot. I an idea generation process HeyJobs, a product that allows job seekers to apply more easily to job offers, was born and initially released in April 2016 after 8 weeks of development.
 
-Within 12 weeks we developed the MVP, using Xamarin as the cross-platform solution, and the RoR backend. The product development process, developed at Memorado helped to achieve this milestone. During the next month, I also took over the TPM responsibility for the Backend project. On a weekly basis, the team and I integrated new job platforms to spread the job offers of our customers (30 in the end including Indeed, eBay classified, Jobbörse), improved the speed of our operations team with new internal tools and served new API endpoints to improve the web interface.
+Within 12 weeks we developed the MVP, using Xamarin as the cross-platform solution, and the RoR backend. The product development process, developed at Memorado helped to achieve this milestone. During the next month, I also took over the TPM responsibility for the Backend project. Every week, the team and I integrated new job platforms to spread the job offers of our customers (30 in the end including Indeed, eBay classified, Jobbörse), improved the speed of our operations team with new internal tools, and served new API endpoints to improve the web interface.
 
 FEATURES in 2016
 * Jobseekers can search for nearby jobs
@@ -61,7 +90,7 @@ FEATURES in 2016
 > * Game modes - single match, 1player or 2player hot seat, tournament and penalty shoot-out
 > * Offline playability - no internet connection required and playable for free
 
-This project started as a hackathon with friends and turned into a full mobile game for Android. We developed the game with Unity, which was exiting because I was new to it. But the learning curve was steep and we were able to develop features quite fast.
+This project started as a hackathon with friends and turned into a fully mobile game for Android. We developed the game with Unity, which was exciting because I was new to it. But the learning curve was steep and we were able to develop features quite fast.
 
 The game is still downloadable and playable on Android: [Link](https://play.google.com/store/apps/details?id=air.com.hotfixgames.footballclash&hl=en)
 
