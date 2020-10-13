@@ -2,6 +2,7 @@
 
 Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
  
+* [Football Clash](#football-clash)
 * [Memorado - Brain Training App](#memorado---brain-training-app)
     + [Web games](#web-games)
     + [Mobile apps](#mobile-apps)
@@ -15,6 +16,20 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 ### WeSource
 
 ### HeyJobs
+
+### Football Clash
+
+> Football Clash is the unique 2D football turn based strategy game. ⚽️
+
+This project started as a hackathon with friends and turned into a full mobile game. We developed the game with Unity, which was exiting because I was new to it. But the learning curve was steep and we were able to develop features quite fast.
+
+The game is still downloadable and playable on Android: [Link](https://play.google.com/store/apps/details?id=air.com.hotfixgames.footballclash&hl=en)
+
+*Web header from Landing page*<br/>
+<img src="images/football_clash/game.jpg" width="480">
+
+*Web features*<br/>
+<img src="images/football_clash/tournaments.jpg" width="480">
 
 ### Memorado - Brain Training App
 
