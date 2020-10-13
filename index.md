@@ -10,6 +10,12 @@ Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/a
 * [Goodgame Heroes](#goodgame-heroes)
 * [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
 
+### Klara
+
+### WeSource
+
+### HeyJobs
+
 ### Memorado - Brain Training App
 
 Memorado was successful brain training app, in which users could train their brain memory, reaction and concentration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
