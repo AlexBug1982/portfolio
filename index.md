@@ -1,7 +1,3 @@
-## Welcome to the portfolio page of Alexander Bahlk
-
-Feel free to also visit my LinkedIn profile [Link](https://www.linkedin.com/in/alexander-bahlk/)
-
 * [Self-watering Plant Pot Device using Arduino](#self-watering-plant-pot-device-using-arduino)
 * [Klara](#klara)
 * [WeSource](#wesource)
