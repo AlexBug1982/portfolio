@@ -1,2 +1,11 @@
+title: Alexander Bahlk # your name (or website title) here
+logo: "/images/Alexander_Bahlk.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Senior Product Owner @ HeyJobs 
+  <br><br>
+  Interested in groups, projects, and contacts around #greentech, #urbangardening, #sustainability, #biophilic, and #climatechange  
+  <br><br>
+  <a href="https://www.linkedin.com/in/alexander-bahlk/">View My LinkedIn Profile</a> 
+
 theme: jekyll-theme-minimal
 markdown: kramdown
