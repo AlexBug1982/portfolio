@@ -20,6 +20,14 @@
 
 ### HeyJobs 2019-2020
 
+*HeyJobs Recruiter Portal Dashboard*<br/>
+<img src="images/heyjobs_two/dashboard.png" width="880">
+
+*Screening question catalog launched February 2020*<br/>
+<img src="images/heyjobs_two/screening_question_catalog.png" width="880">
+
+*New statistics launched November 2020*<br/>
+<img src="images/heyjobs_two/statistics.png" width="880">
 
 
 ### Self-watering Plant Pot Device using Arduino
