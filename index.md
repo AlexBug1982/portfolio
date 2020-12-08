@@ -30,6 +30,11 @@
 <img src="images/heyjobs_two/statistics.png" width="880">
 
 
+<br/>
+<hr>
+<br/>
+
+
 ### Self-watering Plant Pot Device using Arduino
 
 The goal of the project was to develop a prototype that waters a minimum of 5 plants automatically using the Arduino platform. The challenges were the craftwork (wood, plastic, electronics) and combining this with water. To provide water to every plant pot equally I needed to iterate on the hose system. Additionally, C++ was new to me and I needed to learn it from scratch.
