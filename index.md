@@ -20,6 +20,11 @@
 
 ### HeyJobs 2019-2020
 
+Between 2017, the year I left HeyJobs, and 2019, HeyJobs grew into a more mature company. So did the Recruiter Portal Product. As Interim Product Owner it was my responsibility to lift the product to a more Self-Service one. 
+Therefore, by conducting data and qualitative user feedback, the team and I, worked on features and improvements to promote better usability of the existing product but also enabled new user-workflows.
+With the new Screening Question Catalog, recruiters are now able to select qualitative questions from the curated catalog, helping them to ask the right questions to the jobseeker. HeyJobs profits from the catalog by having the context of the questions selected, helping us to have more information about the jobseeker, which can be feed into the machine learning algorithm. In the end, we can provide better fitting candidates to our clients resulting in more hires.
+The new statistics feature had to fulfill two desires. The first one was to give recruiters a self-service tool to sell HeyJobs internally to decision-makers. We introduced more valuable KPIs but also changed the analytics scope to make different publishing periods comparable. The second requirement was to relieve our internal account management team from the effort to send out Excel files manually before regular performance calls. Now during these performance calls, the account manager and recruiter can talk about the same data. We achieved this, by normalizing all data presented to the recruiter and account manager. This is a big win on both sides.
+
 *HeyJobs Recruiter Portal Dashboard*<br/>
 <img src="images/heyjobs_two/dashboard.png" width="880">
 
