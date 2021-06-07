@@ -1,5 +1,6 @@
 ## My projects in chronological order
 
+* [nebenan.de](#nebenan.de)
 * [HeyJobs 2019-2020](#heyjobs-2019-2020)
 * [Self-watering Plant Pot Device using Arduino](#self-watering-plant-pot-device-using-arduino)
 * [Klara](#klara)
@@ -13,6 +14,18 @@
 * [Goodgame Hercules](#goodgame-hercules)
 * [Goodgame Heroes](#goodgame-heroes)
 * [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
+
+<br/>
+<hr>
+<br/>
+
+### nebenan.de
+
+nebenan.de is Europe's largest social network for neighbors. 
+
+As Head of Product, it was my responsibility to guide and coach three Product Managers, one UX Designer, and one CRM Manager. This was a very exciting and educational phase that I will miss a lot. All three PMs had different Skill levels which brought the awesome challenge to develop a specific development path for each of them. The CRM Manager was in the phase of a Braze integration where my expertise in APIs was welcome. And the UX Designer was on her way into Maternity protection so it was my pleasure to help with hiring, onboarding, and supporting the new one. Still, I'm not very good at UX Design but enabling them and bringing them deeply into Product Discovery and Development is a strength of mine.
+
+Another aspect of my work was building relationships with key stakeholders in the company and providing clear communication about the holistic roadmap. Tools to achieve this, where the OKR framework, regular Pitch sessions, Demo sessions, and updates in the company-wide All-hands meetings. Of course, not everything went perfect and I need to learn some bigger lessons in regards to the needs and approaches of influential sales stakeholders. 
 
 <br/>
 <hr>
