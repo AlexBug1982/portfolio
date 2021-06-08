@@ -23,7 +23,9 @@
 
 nebenan.de is Europe's largest social network for neighbors. 
 
-As Head of Product, it was my responsibility to guide and coach three Product Managers, one UX Designer, and one CRM Manager. This was a very exciting and educational phase that I will miss a lot. All three PMs had different Skill levels which brought the awesome challenge to develop a specific development path for each of them. The CRM Manager was in the phase of a Braze integration where my expertise in APIs was welcome. And the UX Designer was on her way into Maternity protection so it was my pleasure to help with hiring, onboarding, and supporting the new one. Still, I'm not very good at UX Design but enabling them and bringing them deeply into Product Discovery and Development is a strength of mine.
+During my time at nebenan.de, my responsibility was to guide and coach three Product Managers, one UX Designer, and one CRM Manager. This was a very exciting and educational phase that I will miss a lot. All three PMs had different Skill levels which brought the awesome challenge to develop a specific development path for each of them. The CRM Manager was in the phase of a Braze integration where my expertise in APIs was welcome. And the UX Designer was on her way into Maternity protection so it was my pleasure to help with hiring, onboarding, and supporting the new one. Still, I'm not very good at UX Design but enabling them and bringing them deeply into Product Discovery and Development is a strength of mine.
+
+Working on the Product Strategy in collaboration with my Product Managers and Stakeholders was one of the great efforts I deeply enjoyed. I conducted Product Visions and Principles workshops for our two main products to bring the teams on board and create a shared understanding.
 
 Another aspect of my work was building relationships with key stakeholders in the company and providing clear communication about the holistic roadmap. Tools to achieve this, where the OKR framework, regular Pitch sessions, Demo sessions, and updates in the company-wide All-hands meetings. Of course, not everything went perfect and I need to learn some bigger lessons in regards to the needs and approaches of influential sales stakeholders. 
 
@@ -73,7 +75,7 @@ Feel free to check out the code, fork the project or contribute: [GitHub Repro](
 
 > Klara’s end-to-end virtual care platform helps practices stay connected with their patients.
 
-As a Product Manager at Klara, a health care communication platform, the development team in Berlin and I successfully migrated the legacy data model to a new one, which supports future EHR integration in the health care sector.
+At Klara, a health care communication platform, the development team in Berlin and I successfully migrated the legacy data model to a new one, which supports future EHR integration in the health care sector.
 
 Within 4 months we developed and shipped two major EHR integrations with https://www.nextech.com and https://www.athenahealth.com using the HL7/FHIR Cloud API.
 
