@@ -29,6 +29,9 @@ Working on the Product Strategy in collaboration with my Product Managers and St
 
 Another aspect of my work was building relationships with key stakeholders in the company and providing clear communication about the holistic roadmap. Tools to achieve this, where the OKR framework, regular Pitch sessions, Demo sessions, and updates in the company-wide All-hands meetings. Of course, not everything went perfect and I need to learn some bigger lessons in regards to the needs and approaches of influential sales stakeholders. 
 
+*Nebenan.de New user landing page*<br/>
+<img src="images/nebenan/cold_home.png" width="880">
+
 <br/>
 <hr>
 <br/>
