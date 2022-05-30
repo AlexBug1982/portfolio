@@ -1,5 +1,6 @@
 ## My projects in chronological order
 
+* [Climate Hack 11/21 - Good Call](#climate-hack-11-21---good-call)
 * [nebenan.de](#nebenande)
 * [HeyJobs 2019-2020](#heyjobs-2019-2020)
 * [Self-watering Plant Pot Device using Arduino](#self-watering-plant-pot-device-using-arduino)
@@ -14,6 +15,46 @@
 * [Goodgame Hercules](#goodgame-hercules)
 * [Goodgame Heroes](#goodgame-heroes)
 * [Goodgame Mafia and Gangster](#goodgame-mafia-and-gangster)
+
+<br/>
+<hr>
+<br/>
+
+### Climate Hack 11-21 - Good Call
+
+Take the world’s biggest challenge as your personal opportunity and create the foundation for a highly scalable and profitable  ClimateTech Startup.
+
+In November 2021 we participated in the [Climate Hack](https://www.climatefounders.com/climate-hack). Our team researched and validated the idea of an API which donate monay to social or environmental funds on a micro transaction basis for B2B companies.
+
+#### The problem we wanted to tackle:
+> Motivated and purpose-driven software developers are not always able to work for NGOs or “good” companies. Yet, they want to have a positive impact on the world within their day to day work.
+
+#### Target customer
+1. Software Tech companies or departments (> 250 employees) using Enterprise GitHub (84% of Fortune 100 use GitHub) like Version Control solutions.
+2. Partner organizations (reforestation, humanitarian, or ocean preservation projects) will be the secondary beneficiaries.
+
+#### Solution
+1. A SaaS platform which iffer multiple projects to donate to
+2. An API which can receive the donation to be made
+3. A Zapier integration to easily plug in other applications such as Salesforce
+4. A public GitHub action to enable Developers to donate easily while coding 
+
+#### Pitch deck
+
+<a href="images/climate_hack_11_21/Good Call_Pitch_deck.pdf">Download the Pitch Deck</a>
+
+#### Screenshots
+
+*Good Call - Flow*<br/>
+<img src="images/climate_hack_11_21/good_call_flow.png" width="880">
+
+*Good Call - Platform*<br/>
+<img src="images/climate_hack_11_21/Wallets.png" width="880">
+
+*Good Call - Platform Analytics*<br/>
+<img src="images/climate_hack_11_21/Wallets_Plant_trees.png" width="880">
+
+
 
 <br/>
 <hr>
