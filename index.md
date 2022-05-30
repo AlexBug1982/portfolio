@@ -1,4 +1,4 @@
-## My projects in chronological order
+## My products and projects in chronological order
 
 * [Climate Hack 11/21 - Good Call](#climate-hack-11-21---good-call)
 * [nebenan.de](#nebenande)
