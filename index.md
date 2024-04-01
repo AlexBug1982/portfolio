@@ -1,4 +1,4 @@
-## My products and projects in chronological order
+## My career steps, products, and projects in chronological order
 
 * [Climate Hack 11/21 - Good Call](#climate-hack-11-21---good-call)
 * [nebenan.de](#nebenande)
@@ -24,17 +24,17 @@
 
 Take the world’s biggest challenge as your personal opportunity and create the foundation for a highly scalable and profitable  ClimateTech Startup.
 
-In November 2021 we participated in the [Climate Hack](https://www.climatefounders.com/climate-hack). Our team researched and validated the idea of an API which donate monay to social or environmental funds on a micro transaction basis for B2B companies.
+In November 2021 we participated in the [Climate Hack](https://www.climatefounders.com/climate-hack). Our team researched and validated the idea of an API that donate money to social or environmental funds on a micro-transaction basis for B2B companies.
 
 #### The problem we wanted to tackle:
-> Motivated and purpose-driven software developers are not always able to work for NGOs or “good” companies. Yet, they want to have a positive impact on the world within their day to day work.
+> Motivated and purpose-driven software developers are not always able to work for NGOs or “good” companies. Yet, they want to have a positive impact on the world within their day-to-day work.
 
 #### Target customer
 1. Software Tech companies or departments (> 250 employees) using Enterprise GitHub (84% of Fortune 100 use GitHub) like Version Control solutions.
 2. Partner organizations (reforestation, humanitarian, or ocean preservation projects) will be the secondary beneficiaries.
 
 #### Solution
-1. A SaaS platform which iffer multiple projects to donate to
+1. A SaaS platform that offers multiple projects to donate to
 2. An API which can receive the donation to be made
 3. A Zapier integration to easily plug in other applications such as Salesforce
 4. A public GitHub action to enable Developers to donate easily while coding 
@@ -68,7 +68,7 @@ During my time at nebenan.de, my responsibility was to guide and coach three Pro
 
 Working on the Product Strategy in collaboration with my Product Managers and Stakeholders was one of the great efforts I deeply enjoyed. I conducted Product Visions and Principles workshops for our two main products to bring the teams on board and create a shared understanding.
 
-Another aspect of my work was building relationships with key stakeholders in the company and providing clear communication about the holistic roadmap. Tools to achieve this, where the OKR framework, regular Pitch sessions, Demo sessions, and updates in the company-wide All-hands meetings. Of course, not everything went perfect and I need to learn some bigger lessons in regards to the needs and approaches of influential sales stakeholders. 
+Another aspect of my work was building relationships with key stakeholders in the company and providing clear communication about the holistic roadmap. Tools to achieve this, were the OKR framework, regular Pitch sessions, Demo sessions, and updates in the company-wide All-hands meetings. Of course, not everything went perfectly and I need to learn some bigger lessons in regards to the needs and approaches of influential sales stakeholders. 
 
 *Nebenan.de New user landing page*<br/>
 <img src="images/nebenan/cold_home.png" width="880">
@@ -80,8 +80,8 @@ Another aspect of my work was building relationships with key stakeholders in th
 ### HeyJobs 2019-2020
 
 Between 2017, the year I left HeyJobs, and 2019, HeyJobs grew into a more mature company. So did the Recruiter Portal Product. As Interim Product Owner it was my responsibility to lift the product to a more Self-Service one. 
-Therefore, by conducting data and qualitative user feedback, the team and I, worked on features and improvements to promote better usability of the existing product but also enabled new user-workflows.
-With the new Screening Question Catalog, recruiters are now able to select qualitative questions from the curated catalog, helping them to ask the right questions to the jobseeker. HeyJobs profits from the catalog by having the context of the questions selected, helping us to have more information about the jobseeker, which can be feed into the machine learning algorithm. In the end, we can provide better fitting candidates to our clients resulting in more hires.
+Therefore, by conducting data and qualitative user feedback, the team and I, worked on features and improvements to promote better usability of the existing product but also enabled new user workflows.
+With the new Screening Question Catalog, recruiters are now able to select qualitative questions from the curated catalog, helping them to ask the right questions to the job seeker. HeyJobs profits from the catalog by having the context of the questions selected, helping us to have more information about the jobseeker, which can be fed into the machine learning algorithm. In the end, we can provide better-fitting candidates to our clients resulting in more hires.
 The new statistics feature had to fulfill two desires. The first one was to give recruiters a self-service tool to sell HeyJobs internally to decision-makers. We introduced more valuable KPIs but also changed the analytics scope to make different publishing periods comparable. The second requirement was to relieve our internal account management team from the effort to send out Excel files manually before regular performance calls. Now during these performance calls, the account manager and recruiter can talk about the same data. We achieved this, by normalizing all data presented to the recruiter and account manager. This is a big win on both sides.
 
 *HeyJobs Recruiter Portal Dashboard*<br/>
@@ -103,9 +103,9 @@ The new statistics feature had to fulfill two desires. The first one was to give
 
 The goal of the project was to develop a prototype that waters a minimum of 5 plants automatically using the Arduino platform. The challenges were the craftwork (wood, plastic, electronics) and combining this with water. To provide water to every plant pot equally I needed to iterate on the hose system. Additionally, C++ was new to me and I needed to learn it from scratch.
 
-Currently, the prototype is working well, the plants are growing nicely. The next steps are a growing light system for the darker months and a different base construction to be able to plug the device on a wall.
+Currently, the prototype is working well, the plants are growing nicely. The next steps are a growing light system for the darker months and a different base construction to be able to plug the device into a wall.
 
-Feel free to check out the code, fork the project or contribute: [GitHub Repro](https://github.com/alexanderbahlk/andruino_interval_watering_with_waterlevel_check_and_rgb_led)
+Feel free to check out the code, fork the project, or contribute: [GitHub Repro](https://github.com/alexanderbahlk/andruino_interval_watering_with_waterlevel_check_and_rgb_led)
 
 *Plant pot device for 5 plants*<br/>
 <img src="images/andruino_interval_watering_with_waterlevel_check_and_rgb_led/plant_pot_device.JPG" width="440">
@@ -119,7 +119,7 @@ Feel free to check out the code, fork the project or contribute: [GitHub Repro](
 
 > Klara’s end-to-end virtual care platform helps practices stay connected with their patients.
 
-At Klara, a health care communication platform, the development team in Berlin and I successfully migrated the legacy data model to a new one, which supports future EHR integration in the health care sector.
+At Klara, a healthcare communication platform, the development team in Berlin and I successfully migrated the legacy data model to a new one, which supports future EHR integration in the healthcare sector.
 
 Within 4 months we developed and shipped two major EHR integrations with https://www.nextech.com and https://www.athenahealth.com using the HL7/FHIR Cloud API.
 
@@ -141,7 +141,7 @@ Within 4 months we developed and shipped two major EHR integrations with https:/
 In Mid 2017 my co-founder and I started our own company WeSource UG. Our vision was to give recruiters and hiring managers the opportunity to reach out to passive candidates with a personal message to increase the response rate. Users on LinkedIn and XING are flooded with messages on daily basis missing out on great conversations and new opportunities.
 
 Within the first 6 months we:
-* applied successfully for the German Gründerzuschuss to receive 35.000€ in total as start investment
+* applied successfully for the German Gründerzuschuss to receive 35.000€ in total as a start investment
 * built the wesource.io MVP in 4 weeks based on customer interviews in an agile process
 * applied successfully to the TheFamily acceleration program to get valuable business feedback and contacts and receive perks such as AWS credits to save hosting costs
 * sold the service to customers like Deutsche Post, 1&1, Deutsche Bahn, Raisin, headhunting agencies and more
@@ -181,14 +181,14 @@ FEATURES
 
 ### HeyJobs 2016-2017
 
-In early 2016 the founders of Memorado decided to pivot. I an idea generation process HeyJobs, a product that allows job seekers to apply more easily to job offers, was born and initially released in April 2016 after 8 weeks of development.
+In early 2016 the founders of Memorado decided to pivot. In an idea generation process HeyJobs, a product that allows job seekers to apply more easily to job offers, was born and initially released in April 2016 after 8 weeks of development.
 
-Within 12 weeks we developed the MVP, using Xamarin as the cross-platform solution, and the RoR backend. The product development process, developed at Memorado helped to achieve this milestone. During the next month, I also took over the TPM responsibility for the Backend project. Every week, the team and I integrated new job platforms to spread the job offers of our customers (30 in the end including Indeed, eBay classified, Jobbörse), improved the speed of our operations team with new internal tools, and served new API endpoints to improve the web interface.
+Within 12 weeks we developed the MVP, using Xamarin as the cross-platform solution, and the RoR backend. The product development process, developed at Memorado helped to achieve this milestone. During the next month, I also took over the TPM responsibility for the Backend project. Every week, the team and I integrated new job platforms to spread the job offers of our customers (30 in the end including Indeed, eBay classified, and Jobbörse), improved the speed of our operations team with new internal tools, and served new API endpoints to improve the web interface.
 
 FEATURES in 2016
 * Jobseekers can search for nearby jobs
-* Jobseekers can easily apply to suitable jobs on the mobile device
-* Jobseekers can create a beautiful looking and appealing CV and attach it to every application
+* Jobseekers can easily apply for suitable jobs on a mobile device
+* Jobseekers can create a beautiful-looking and appealing CV and attach it to every application
 
 [Website](https://hire.heyjobs.co/en-us/)
 
@@ -210,7 +210,7 @@ FEATURES in 2016
 
 ### Football Clash
 
-> Football Clash is the unique 2D football turn based strategy game. ⚽️
+> Football Clash is a unique 2D football turn-based strategy game. ⚽️
 >
 > FEATURES
 > * Unique genre mix - turn bases strategy meets football
@@ -235,12 +235,12 @@ The game is still downloadable and playable on Android: [Link](https://play.goog
 
 ### Memorado - Brain Training App
 
-Memorado was successful brain training app, in which users could train their brain memory, reaction and concentration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
+Memorado was a successful brain training app, in which users could train their brain memory, reaction, and concentration functions. Memorado was rebranded into [Geist](https://apps.apple.com/de/app/geist-memorado-gehirntraining/id897062509) recently
 
 #### Web games
 
 Memorado started as a web-based product for users interested in brain training.
-I joined as a Games Developer to develop more ActionScript 3 games. On a weekly to bi-weekly basis be launched new games to keep users engaged and to increase the portfolio. This turned out be out very successful which lead to the start of the mobile apps.
+I joined as a Games Developer to develop more ActionScript 3 games. On a weekly to bi-weekly basis be launched new games to keep users engaged and to increase the portfolio. This turned out to be very successful which led to the start of the mobile apps.
 
 
 *Web header from Landing page*<br/>
@@ -257,8 +257,8 @@ I joined as a Games Developer to develop more ActionScript 3 games. On a weekly 
 
 #### Mobile apps
 
-As the market demanded mobile first, Memorado moved the focus to the Android and iOS app. While hiring the Android team, I already started to develop the Android App from scratch. The hired team helped me launching the app on time.
-In mid 2015 I took over the Project Management of both the Android and iOS app and also the Product Management of the RoR backend product, switching my career path from Developer to Project and Product Manager.
+As the market demanded mobile-first, Memorado moved the focus to the Android and iOS apps. While hiring the Android team, I already started to develop the Android App from scratch. The hired team helped me launch the app on time.
+In mid-2015 I took over the Project Management of both the Android and iOS app and also the Product Management of the RoR backend product, switching my career path from Developer to Project and Product Manager.
 
 *Android store*<br/>
 <img src="images/memorado/android_store.png" width="480">
@@ -280,13 +280,13 @@ In mid 2015 I took over the Project Management of both the Android and iOS app a
 
 > Outer space. A galaxy far, far away. Who didn’t dream of conquering the universe as a child? As of today, Goodgame Galaxy, the newest free online game from the
 >
-> Hamburg-based developer Goodgame Studios gives you the chance to do just that. Various challenges await you as commander of your own space station. To begin with, the base is made up of little more than a few buildings - not a powerful and mighty space station at all. This makes it necessary to secure supplies of resources through the construction of production facilities, to arm your defenses and to manufacture your first spaceships to attack enemy bases. The launch already sees Goodgame Galaxy players given the choice between five different kinds of gun turrets, six types of space ships and 30 different building modules. In addition, players can develop bigger and stronger buildings, gun turrets and units through research. In total, there are up to nine upgrade levels at your disposal.
+> Hamburg-based developer Goodgame Studios gives you the chance to do just that. Various challenges await you as commander of your own space station. To begin with, the base is made up of little more than a few buildings - not a powerful and mighty space station at all. This makes it necessary to secure supplies of resources through the construction of production facilities, to arm your defenses, and to manufacture your first spaceships to attack enemy bases. The launch already sees Goodgame Galaxy players given the choice between five different kinds of gun turrets, six types of spaceships, and 30 different building modules. In addition, players can develop bigger and stronger buildings, gun turrets, and units through research. In total, there are up to nine upgrade levels at your disposal.
 >
-> Apart from expanding your base, focus is also placed on thrilling space battles. Unlike many browser games, Goodgame Galaxy battles are calculated in real time. This means that the player, as commander of their fleet, can make alterations to his tactics during combat. It also means that the different arrangements of defenses and differing buildings require a unique strategy with each attack. In this way, the battles contain elements of the much loved tower defense genre. Opponents include computer controlled bases, but above all, other real players from across the world. In addition, players can come together to form powerful alliances, in which players support each other, and conquer the galaxy together.
+> Apart from expanding your base, focus is also placed on thrilling space battles. Unlike many browser games, Goodgame Galaxy battles are calculated in real-time. This means that the player, as commander of their fleet, can make alterations to his tactics during combat. It also means that the different arrangements of defenses and differing buildings require a unique strategy with each attack. In this way, the battles contain elements of the much-loved tower defense genre. Opponents include computer-controlled bases, but above all, other real players from across the world. In addition, players can come together to form powerful alliances, in which players support each other, and conquer the galaxy together.
 
-Goodgame Galaxy marked the peak of what is possible in Actionscript 3 games. The game looked amazing in terms of the UI and the 3D objects with animations. Under the hood, we developed an Entity Component System as the Game Engine. In combination with State Machines and the Decorator Pattern we were able to work fast and efficient to implement new Game Designs.
+Goodgame Galaxy marked the peak of what is possible in Actionscript 3 games. The game looked amazing in terms of the UI and the 3D objects with animations. Under the hood, we developed an Entity Component System as the Game Engine. In combination with State Machines and the Decorator Pattern, we were able to work fast and efficiently to implement new Game Designs.
 
-I am still very proud of the team and me. We build the most advanced game at Goodgame Studios at that time and also delivered a game users loved. Unfortunately, it could not hold up to the expectations of the company in terms of revenue and was discontinued 2013. But it was the technical foundation for their hit game Goodgame Bigfarm.
+I am still very proud of the team and me. We built the most advanced game at Goodgame Studios at that time and also delivered a game users loved. Unfortunately, it could not hold up to the expectations of the company in terms of revenue and was discontinued in 2013. But it was the technical foundation for their hit game Goodgame Bigfarm.
 
 *Early base*<br/>
 <img src="images/ggs_galaxy/build.jpg" width="480">
@@ -317,11 +317,11 @@ I am still very proud of the team and me. We build the most advanced game at Goo
 
 > Facing a dangerous hydra, getting in the ring with Hercules, taking a flight on the back of the winged horse Pegasus, or even being in service of the father of gods Zeus – all these exciting adventures are possible with Goodgame Hercules.
 >
-> Live combats against real players stand in the spotlight of this fascinating browser game. The innovative combat system with multiple tactical options, allowing a free choice between offensive and defensive actions, guarantees an enduring diversity of game experience. A number of combat skills can be additionally trained and enhanced. Furthermore, in the mythic world of Goodgame Hercules players can also complete single campaigns or become involved in group-based assignments. Each
-player can decide whether to meet all these challenges as an athlete, a philosopher or a warrior. The top of Olympus can be reached in no time by those who manage to use their experience points efficiently and acquire the necessary weapons from the merchants. But can it be also successfully defended from the numerous rivals?
+> Live combats against real players stand in the spotlight of this fascinating browser game. The innovative combat system with multiple tactical options, allowing a free choice between offensive and defensive actions, guarantees an enduring diversity of game experience. A number of combat skills can be additionally trained and enhanced. Furthermore, in the mythic world of Goodgame Hercules, players can also complete single campaigns or become involved in group-based assignments. Each
+player can decide whether to meet all these challenges as an athlete, a philosopher, or a warrior. The top of Olympus can be reached in no time by those who manage to use their experience points efficiently and acquire the necessary weapons from the merchants. But can it be also successfully defended from the numerous rivals?
 
-With the knowledge and learning taken from Goodgame Studios made the bet on anther title similar to Goodgame Mafia and pulled off Goodgame Hercules. While it looks very similar to Goodgame Mafia and Hereos, the key difference is the fight mode which offers more variety. This fight mode required us to rethink the server client communication to make it faster and more reliable.
-Additionally, the tutorial system was redevolped to allow more flexiablity for the Game Design.
+With the knowledge and learning taken, Goodgame Studios Mafia bet on another title similar to Goodgame Mafia and pulled off Goodgame Hercules. While it looks very similar to Goodgame Mafia and Hereos, the key difference is the fight mode which offers more variety. This fight mode required us to rethink the server-client communication to make it faster and more reliable.
+Additionally, the tutorial system was redeveloped to allow more flexibility for the Game Design.
 
 *Character selection*<br/>
 <img src="images/ggs_hercules/header.jpg" width="480">
@@ -346,7 +346,7 @@ Additionally, the tutorial system was redevolped to allow more flexiablity for t
 
 > Odd characters are sitting in the tavern, waiting for a willing hero, brave enough to carry out their assignments. “Hey you,” the two-headed ogre shouts, “just the man I need! In the valley of flames lives a dragon with a sore throat in desperate need of his medicine. Could get heated for you but you’ll receive huge amounts of gold and experience points. Sounds tempting, doesn’t it?”
 
-During my Bachelors Degree at SAE Institute Hamburg, Good Game Studios wanted to develop and publish a new game based on the working game concept of Goodgame Mafia but with a different setting. I took the opportunity to develop Goodgame Heroes with a new framework, which was used later also in GGS Mafia as a technical update.
+During my Bachelor's Degree at SAE Institute Hamburg, Good Game Studios wanted to develop and publish a new game based on the working game concept of Goodgame Mafia but with a different setting. I took the opportunity to develop Goodgame Heroes with a new framework, which was used later also in GGS Mafia as a technical update.
 
 *Character selection*<br/>
 <img src="images/ggs_heroes/character_selection.jpg" width="480">
@@ -369,13 +369,13 @@ During my Bachelors Degree at SAE Institute Hamburg, Good Game Studios wanted to
 
 ### Goodgame Mafia and Gangster
 
->In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among the enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
+>In Goodgame Gangster the player slips into the role of a young and aspiring mobster who, among other things, needs to complete missions for the godfather in order to climb the career ladder. Most popular among enthusiastic players are multiplayer elements like forming families or fighting against other ambitious crooks from all over the world.
 
-As leading Frontend developer my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies. We developed the game in Action 3, using state machine design pattern and async Server Client communication. The game got translated into numerous languages, making it available for almost every country. 
+As leading front-end developers my team and I developed this beloved game project on time which helped the company to grow from 20 employees to one of Germany's biggest game companies. We developed the game in Action 3, using state machine design patterns and async Server Client communication. The game was translated into numerous languages, making it available for almost every country. 
 
 In 2012 the game was rebranded from Goodgame Mafia to Goodgame Gangster and received a polished design.
 
-Until the fully deprecation of the Flash Browser Plugin the game is still enjoyable at [Link](https://gangster.goodgamestudios.com/)
+Until the full deprecation of the Flash Browser Plugin, the game is still enjoyable at [Link](https://gangster.goodgamestudios.com/)
 
 *Version 1 of the Profile page*<br/>
 <img src="images/ggs_mafia/profile_v1.jpg" width="480">
